@@ -1,15 +1,15 @@
-تقویم فارسی 99 (هوشمند)
+تقویم فارسی 98)
 
 این برنامه به صورت رایگان و متن‌باز نوشته شده‌است و سورس کدهای اصلی و ویرایش شده آن را میتوانید در زیر دریافت کنید
 
 نسخه اصلی سورس برنامه
 https://github.com/persian-calendar/DroidPersianCalendar
 
-سورس نسخه ویرایش شده (تقویم فارسی 99 (هوشمند))
-https://github.com/mohsen1411/m141 
+سورس نسخه ویرایش شده (تقویم فارسی 98))
+https://github.com/rahimi1379/taqvim
 
 نسخه ویرایش شده برنامه در بازار
-https://cafebazaar.ir/app/com.mohsen.persiancalendar
+https://cafebazaar.ir/app/com.persiancalender.sharif
 
 مجوز شرایط استفاده از کد برنامه
 
